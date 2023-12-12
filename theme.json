@@ -135,7 +135,7 @@
   },
   "DropdownMenu": {
     "fg_color": ["#4682FA", "#467FF2"],
-    "hover_color": ["#3574F0", "3574F0"],
+    "hover_color": ["#3574F0", "#3574F0"],
     "text_color": ["#FFFFFF", "#DFE1E5"]
   },
   "CTkFont": {
